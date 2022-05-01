@@ -11,3 +11,4 @@ DKU OSS Lecture Mid-Term Assignment
 7. What I like에 좋아하는 게임, 동영상 추가
 8. Skills에 언어 부분 배지 추가
 9. Skills에 관심 분야 추가
+10. Contact 추가
