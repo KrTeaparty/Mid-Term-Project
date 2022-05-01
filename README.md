@@ -12,3 +12,4 @@ DKU OSS Lecture Mid-Term Assignment
 8. Skills에 언어 부분 배지 추가
 9. Skills에 관심 분야 추가
 10. Contact 추가
+11. footer style 추가
