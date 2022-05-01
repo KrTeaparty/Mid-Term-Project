@@ -6,9 +6,50 @@
         <title>Introducing Me</title>
         <style>
             body { background-color:floralwhite}
+            nav {
+                text-align: center;
+            }
+            #topMenu {
+                height: 30px;
+                width: 800px;
+                margin:auto;
+                background-color:gray;
+            }
+            #topMenu li {
+                list-style:none;
+                color:white;
+                background-color:black;
+                float:left;
+                line-height:30px;
+                vertical-align:middle;
+                text-align:center;
+                border-left:1px solid white;
+            }
+            #topMenu .menuLink {
+                text-decoration:none;
+                color:white;
+                display:block;
+                width:199px;
+                font-size:12px;
+                font-weight:bold;
+                font-family:"Trebuchet MS", Dotum, Arial;
+            }
+            #topMenu .menuLink:hover {
+                color:red;
+                background-color:dimgrey;
+            }
         </style>
     </head>
     <body>
+        <div style="text-align:center">
+            <h1>자기 소개 홈페이지</h1>
+        </div>
         
+        <nav id="topMenu">
+                <li><a class="menuLink" href="#whoami_d">Who am I</a></li>
+                <li><a class="menuLink" href="#whatilike_d">What I like</a></li>
+                <li><a class="menuLink" href="#skills_d">Skills</a></li>
+                <li><a class="menuLink" href="#contact_d">Contact</a></li>
+        </nav>
     </body>
 </html>
